@@ -1,4 +1,4 @@
-baseURL = "https://www.example.com/"
+baseURL = "https://micro0x00.github.io/whoami.io/"
 title = "Shell"
 # author = "Micro0x00"
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
