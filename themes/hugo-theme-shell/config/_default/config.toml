@@ -36,10 +36,10 @@ ignoreErrors = ["error-remote-getjson"]
   # ./[folderName]/
   # ...
   # Note: result of the tree command
-  userName = "jane"
-  pcName = "laptop"
+  userName = "Micro0x00"
+  pcName = "Space"
   workDir = "mydir"
-  profile = "profile.txt"
+  profile = "whoami.txt"
 
   # Note: speed at which text is displayed on the terminal
   # Note: if set to 0, typing animation will be disabled
@@ -63,8 +63,10 @@ ignoreErrors = ["error-remote-getjson"]
   # activityDelay = 5 : deprecated
 
   description = """
-  Hi I am Jane Doe!
+  Hi I am Mohamed Mater!
+  Pentester & Developer
   Nice to meet you!
+  
   
   """
 
@@ -78,8 +80,8 @@ ignoreErrors = ["error-remote-getjson"]
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
     ["Blog", "https://www.example.com/"],
-    ["Twitter", "https://www.example.com/"],
-    ["Github", "https://golang.org/"],
+    ["Twitter", "https://www.twitter.com/Micro0x00"],
+    ["Github", "https://Github.com/Micro0x00"],
     ["Hugo", "/post/some-activity.md"],
     ["Docker", "/post/some-activity.md"],
   ]
