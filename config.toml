@@ -1,4 +1,4 @@
-baseURL = 'https://micro0x00.github.io/whoami.io'
+baseURL = 'https://micro0x00.github.io'
 languageCode = 'en-us'
 title = 'Whoami'
 theme = "hugo-theme-shell"
